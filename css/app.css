@@ -423,3 +423,28 @@ img {
     float: left;
 }
 
+.div {
+    background-color: #EC407A;
+}
+
+.b {
+    background-color: aqua;
+}
+
+.b2 {
+    background-color: #E91E63;
+}
+
+.back {
+    background-image: url(../img/1.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-image: cover;
+}
+
+.rows {
+    padding: 0px;
+    margin: 0px;
+    max-width: 100%;
+    margin-right: 0px;
+}
