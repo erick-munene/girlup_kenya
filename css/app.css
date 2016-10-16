@@ -330,17 +330,27 @@ nav[role=navigation] li a {
 
 .about{
   position: relative;
-    z-index: 2000;
-    background: #fff;
     padding: 1em 0;
     height: auto;
+    background-image: url(../img/about_back.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 700px;
 }
 
 .about .one{
 text-align: left;
     font-size: 1.5em;
     padding-right: 2em;
-    background: #fff;
+   background: rgba(255,255,255,.64);
+   background-size: cover;
+   
+
+}
+
+.one{
+    margin-top: -20 auto;
 }
 
 .about .two{
@@ -353,7 +363,7 @@ text-align: left;
 
 
 
-slider
+
 
 
 /*slider*/
