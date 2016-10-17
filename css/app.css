@@ -332,7 +332,7 @@ nav[role=navigation] li a {
   position: relative;
     padding: 1em 0;
     height: auto;
-    background: #E6E6E6;
+    background: #E6E6E6; 
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -351,9 +351,6 @@ text-align: left;
 
 }
 
-/*.one{
-    margin-top: -20% auto;
-}*/
 
 .about .two{
 text-align: left;
