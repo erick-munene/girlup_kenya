@@ -332,20 +332,22 @@ nav[role=navigation] li a {
   position: relative;
     padding: 1em 0;
     height: auto;
-    background-image: url(../img/about_back.jpg);
+    background: #E6E6E6;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: 700px;
+
+  font-size: 17px;
+
 }
 
 .about .one{
 text-align: left;
-    font-size: 1.5em;
+    font-size: inherit;
     padding-right: 2em;
    background: rgba(255,255,255,.64);
    background-size: cover;
-   
+   text-align: center;
 
 }
 
