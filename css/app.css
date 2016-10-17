@@ -328,36 +328,7 @@ nav[role=navigation] li a {
 
 
 
-.about{
-  position: relative;
-    padding: 1em 0;
-    height: auto;
-    background: #E6E6E6; 
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
 
-  font-size: 17px;
-
-}
-
-.about .one{
-text-align: left;
-    font-size: inherit;
-    padding-right: 2em;
-   background: rgba(255,255,255,.64);
-   background-size: cover;
-   text-align: center;
-
-}
-
-
-.about .two{
-text-align: left;
-    font-size: 1.5em;
-    padding-right: 2em;
-    background: #fff;
-}
 
 
 
