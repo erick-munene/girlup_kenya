@@ -448,6 +448,14 @@ background: #303030;
 }
 
 .info h2{
-  text-align: center;
+  text-align: left;
   font-size: 2em;
+}
+
+.mes h6{
+  color: #ffffff;
+  text-align: center;
+  font-weight: 500;
+  font-size: 2em;
+
 }
