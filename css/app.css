@@ -427,4 +427,27 @@ img {
     margin: 0px;
     max-width: 100%;
     margin-right: 0px;
+
+
+}
+
+/*
+================= 
+   footer section
+==================
+*/
+
+.footer{
+
+background: #303030;
+}
+
+.info{
+  color: #ffffff;
+
+}
+
+.info h2{
+  text-align: center;
+  font-size: 2em;
 }
